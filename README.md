@@ -24,6 +24,8 @@
    7. Використайте на елементах списку 2-3 інших предикати з розглянутих у розділі 4 навчального посібника.
    8. Об'єднайте створений список з одним із його непустих підсписків. Для цього використайте функцію APPEND.
 
+<img width="1113" height="440" alt="image" src="https://github.com/user-attachments/assets/dd866b99-54ff-4bca-8665-e52f380cc733" />
+
 ```
 ;create list
 [1]> (setq first-list (cons 'A (list 123 (list 'B 4) () "hello")))
